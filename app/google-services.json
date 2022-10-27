@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "749183413675",
+    "firebase_url": "https://bespeak-f3bff-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bespeak-f3bff",
+    "storage_bucket": "bespeak-f3bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749183413675:android:96b2d95074b04b35c936ee",
+        "android_client_info": {
+          "package_name": "com.billcoreatech.sample1024"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749183413675-b66kjejgat3jaemohdnodlosrle2tl04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDImsXTW14EWfWmFLvOBi_g_NCjtxuC8A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749183413675-b66kjejgat3jaemohdnodlosrle2tl04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
